@@ -3,7 +3,8 @@
 export default function Home() {
   return (
     <main>
-      <h2>Hello World</h2>
+      <h2>The Code Genrator will come</h2>
+
     </main>
   )
 }
