@@ -1,2 +1,2 @@
-## Getting Started
-Project Live Link:  [](https://code-gen-master.vercel.app/) 
+## Visit Code Gen Master
+https://code-gen-master.vercel.app/
